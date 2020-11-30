@@ -1,6 +1,8 @@
 # test-web-blogpetz
 Teste Automatizado Front End do Blg Petz, utilizando JAVA com Cucumber
 
+acessar a branch Master onde estaos os arquivos do projeto
+
 Ferramentas utilizadas no projeto:
 
 Java JDK8 --> https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
