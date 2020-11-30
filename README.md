@@ -4,7 +4,9 @@ Teste Automatizado Front End do Blg Petz, utilizando JAVA com Cucumber
 Ferramentas utilizadas no projeto:
 
 Java JDK8 --> https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
+
 Eclpse --> https://www.eclipse.org/
+
 ChromeDriver --> https://chromedriver.chromium.org/downloads
 
 Criar no Eclipse um projeto Maven, configurar o Selenium e Cucumber.
